@@ -39,6 +39,7 @@
 		'contains_unwanted' => 'Your post contains unwanted words:',
 		'contains_unwanted_lang' => 'Your post contains a disallowed language:',
 		'too_many_links' => 'Your post contains too many links to external sites.',
+		'link_without_content' => 'Your post contains too many links without enough content.',
 		'notify_mentioning' => 'Notify admin by email if this mentioning is found:',
 		'allow_links_count' => 'Number of allowed links per post:',
 		'mask_emails' => 'Remove email addresses from posts. Example: spam@forum.com becomes *Emails are not allowed*',

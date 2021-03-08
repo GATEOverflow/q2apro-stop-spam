@@ -1,0 +1,15 @@
+{
+  "name": "Stop Spam",
+  "uri": "",
+  "description": "An easy to use customizable captacha with a honeypot that keeps 99 % of the spam away",
+  "version": "1.1",
+  "date": "2016-05-30",
+  "author": "q2apro",
+  "author_uri": "",
+  "license": "",
+  "update_uri": "https://raw.githubusercontent.com/q2apro/q2apro-stop-spam/metadata.json",
+  "min_q2a": "1.5",
+  "min_php": "5.1.6"
+  "load_order": "after_db_init"
+}
+
